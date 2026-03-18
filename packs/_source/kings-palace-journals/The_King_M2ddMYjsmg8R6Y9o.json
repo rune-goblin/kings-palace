@@ -1,0 +1,63 @@
+{
+  "name": "The King",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "The King",
+      "type": "image",
+      "_id": "PleVbpXeBIidYAo1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/kings-palace/assets/king.webp",
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": -1
+      },
+      "_key": "!journal.pages!M2ddMYjsmg8R6Y9o.PleVbpXeBIidYAo1"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1773841820242,
+    "modifiedTime": 1773841820242,
+    "lastModifiedBy": "0ScYVMLH4DJ8lurj"
+  },
+  "ownership": {
+    "default": 0,
+    "0ScYVMLH4DJ8lurj": 3
+  },
+  "_id": "M2ddMYjsmg8R6Y9o",
+  "sort": 0,
+  "_key": "!journal!M2ddMYjsmg8R6Y9o"
+}

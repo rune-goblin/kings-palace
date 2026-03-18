@@ -1,0 +1,28 @@
+{
+  "id": "kings-palace",
+  "title": "King's Palace",
+  "description": "Scene maps for the King's Palace",
+  "version": "1.0.0",
+  "license": "LICENSE",
+  "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
+  "compatibility": {
+    "minimum": 12,
+    "verified": 13
+  },
+  "packs": [
+    {
+      "name": "kings-palace-scenes",
+      "label": "King's Palace Scenes",
+      "path": "packs/kings-palace-scenes",
+      "type": "Scene"
+    },
+    {
+      "name": "kings-palace-journals",
+      "label": "King's Palace Journals",
+      "path": "packs/kings-palace-journals",
+      "type": "JournalEntry"
+    }
+  ],
+  "manifest": "https://github.com/rune-goblin/kings-palace/releases/latest/download/module.json",
+  "download": "https://github.com/rune-goblin/kings-palace/releases/latest/download/kings-palace.zip"
+}

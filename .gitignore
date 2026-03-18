@@ -1,0 +1,13 @@
+.DS_Store
+*.zip
+
+# Compiled LevelDB packs (Foundry generates from _source/)
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old
+packs/**/*.log
+
+# Development
+node_modules/
+package.json
+package-lock.json
