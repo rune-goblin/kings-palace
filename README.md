@@ -1,6 +1,6 @@
 # King's Palace
 
-![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/kings-palace/total)
+![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/kings-palace/total?include_prereleases&filter=*.zip)
 
 A grand, multi-level palace for Foundry VTT. Explore the opulent ground floor with its sweeping halls and throne room, descend to the steam-filled bath level, or brave the dark sub-level dungeons lurking beneath. Each map comes in labeled and unlabeled variants at 130px and 200px grid scales.
 
